@@ -1,5 +1,6 @@
 from bs4 import BeautifulSoup
 
+
 def search_web_data(url, search_term):
     try:
         response = requests.get(url)
