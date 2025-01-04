@@ -1,6 +1,4 @@
 
----
-
 # **Programming Portfolio** 🚀
 
 ### **Olá! Tudo bem?** 👋  
@@ -21,13 +19,14 @@ Minha intenção com este espaço é não apenas documentar minha evolução em 
 
 ---
 
+### **Explore o Repositório**  
+✨ **[Acesse meu repositório aqui](https://github.com/Ridd1kulusC0d3r/Programming/tree/main/repos)** ✨  
+
+---
+
 Espero que você aproveite este repositório e encontre algo que possa te inspirar ou facilitar seu trabalho.  
 **Vamos construir o futuro juntos?** 🚀  
 
 ---  
-
-✨ **[Explore os repositórios](#)** ✨  
-
---- 
 
 Se precisar de algo, estou à disposição! 😊
