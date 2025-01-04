@@ -20,7 +20,7 @@ Minha intenção com este espaço é não apenas documentar minha evolução em 
 ---
 
 ### **Explore o Repositório**  
-✨ **[Acesse meu repositório aqui]([https://github.com/Ridd1kulusC0d3r/Programming/tree/main/repos](https://github.com/Ridd1kulusC0d3r/Programming/blob/main/repos/sitemap.md))** ✨  
+✨ **[Acesse meu repositório aqui](https://github.com/Ridd1kulusC0d3r/Programming/blob/main/repos/sitemap.md))** ✨  
 
 ---
 
