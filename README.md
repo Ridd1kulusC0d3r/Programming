@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/identity/banner.svg" alt="Programming — Ideias pequenas. Software que evolui." width="100%"></p>
+
 # Programming
 
 > Multi-language learning lab focused on software engineering, automation, tooling and security-oriented development.
